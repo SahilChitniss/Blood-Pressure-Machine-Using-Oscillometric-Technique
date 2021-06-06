@@ -18,3 +18,7 @@
   * STM32F4DISCOVERY ARM based Mircrocontroller
   * MBED OS
   * PLATFORMIO developemnt platform
+
+* For any queries / feedback / constructive criticism / collaborations on this or any other of my projects you are most welcome to drop me an email : ssc9983@nyu.edu
+
+* **NOTE** : Feel free to use this code for your development but before doing so please go through the License above.
