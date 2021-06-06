@@ -2,7 +2,7 @@
  *
  * Oscillometric Blood Pressure Machine
  * 
- * Author             : Sahil Chitnis, N10986573, ssc9983
+ * Author             : Sahil Chitnis
  * Date of Submission : 05/23/2021
  * 
  * Method Used        : SLOPE METHOD
