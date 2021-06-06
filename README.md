@@ -12,3 +12,9 @@
 
 
 * **Youtube Demonstration Video** : https://youtu.be/zGHvD9UG5J0
+
+* Devlopment Environment :
+  * Honeywell MPRLS0300YG00001BB Pressure Sensor
+  * STM32F4DISCOVERY ARM based Mircrocontroller
+  * MBED OS
+  * PLATFORMIO developemnt platform
