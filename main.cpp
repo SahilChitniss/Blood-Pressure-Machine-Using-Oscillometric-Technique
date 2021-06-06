@@ -17,6 +17,8 @@
  *             The DIASTOLIC pressure value will be the closest slope value to 0.8 * MAP in the right part of MAP.
  *             The HEART RATE is the count of number of peaks in each second, averaged over entire time between
  *             systolic and diastolic pressure.
+ *
+ * License. : GNU General Public License v3.0 (Detailed license under same directoy)
  */
 
 // ********************************* Header Files Includes **********************************************
